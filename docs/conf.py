@@ -4,7 +4,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'Turbotax Already Purchased'
 author = 'Mark Race'
-release = '2.0'
+release = '1.0'
 
 extensions = []
 
