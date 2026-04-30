@@ -4,8 +4,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project info
-project = 'Turbotax Already Purchased'
-author = 'Your Name'
+project = 'My Web Gate'
+author = 'Ellamarie'
 release = '1.0'
 
 # General config
