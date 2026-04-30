@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project info
-project = 'My Web Gate'
+project = 'Fix Turbotax'
 author = 'Ellamarie'
 release = '1.0'
 
